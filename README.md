@@ -16,14 +16,13 @@ The dataset (netflix_data.csv) contains:
 ⏳ Duration – Length of the movie in minutes.
 📅 Release Year – Year the movie was released.
 
-## 🛠 Installation
-Ensure you have Python installed, then install dependencies using:
-
-📊 Visualization
+## 📊 Visualization
 Here is a histogram showing the distribution of movie durations in the 1990s:  
 
 ![Project Screenshot](https://github.com/saif-islam123/Investigating-Netflix-Movies/blob/70e50bfc36c02cdc56c121bf46613c13789c7428/screenshots/pic.png)
 
+## 🛠 Installation
+Ensure you have Python installed, then install dependencies using:
 ```bash
 pip install pandas matplotlib jupyter
 
