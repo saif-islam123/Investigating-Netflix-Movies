@@ -27,6 +27,6 @@ pip install pandas matplotlib jupyter
 📊 Visualization
 Here is a histogram showing the distribution of movie durations in the 1990s:  
 
-![Histogram of Movie Durations](https://github.com/saif-islam123/Investigating-Netflix-Movies/blob/main/screenshots/pic.png?raw=true)
+![Project Screenshot](https://github.com/saif-islam123/Investigating-Netflix-Movies/blob/main/screenshots/pic.png?raw=true)
 
 
